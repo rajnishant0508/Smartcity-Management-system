@@ -1,0 +1,63 @@
+
+#mySidenav a {
+  position: fixed;
+  left: -108px;
+  transition: 0.3s;
+  padding: 10px;
+  width: 150px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  border-radius: 0 50px 50px 0;
+  margin-top: 12%; 
+ 
+}
+
+#mySidenav a:hover {
+  left:0 ;
+   border-radius: 0 0 100px 0;
+   
+}
+
+#about {
+  top: 10px;
+  background-color: #4CAF50;
+}
+
+#blog {
+  top: 58px;
+  background-color: #2196F3;
+}
+
+#projects {
+  top: 106px;
+  background-color: #f44336;
+}
+
+#contact {
+  top: 155px;
+  background-color: #555
+}
+
+#Neeraj {
+  top: 205px;
+  background-color: #F1C40F;
+}
+#Somya {
+  top: 254px;
+  background-color: brown;
+}
+#Tanya {
+  top: 303px;
+  background-color: blue;
+}
+#Abhi {
+  top: 352px;
+  background-color: red;
+}
+
+#deda {
+  top: 345px;
+  background-color: pink;
+}
+
